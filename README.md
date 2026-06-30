@@ -1,7 +1,7 @@
 # DPI Engine — AI-Assisted Debugging Transcript
 
 This repo documents a real debugging session on an existing C++ multi-threaded
-[Deep Packet Inspection engine](https://github.com), done together with Claude (Sonnet 4.6)
+[Deep Packet Inspection engine](https://github.com/samriddhichandra/Deep-Packet-Inspection-System), done together with Claude (Sonnet 4.6)
 in an agentic coding session.
 
 **What's here:**
